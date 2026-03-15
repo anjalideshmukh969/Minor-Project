@@ -1,3 +1,61 @@
+🤖 Virtual AI Assistant – Frontend
+
+This is the React frontend for the Virtual AI Assistant project.
+It provides a user-friendly interface that allows users to interact with the AI assistant using voice commands or text input.
+
+The frontend uses the Web Speech API for voice recognition and speech synthesis, and communicates with the backend server to generate intelligent responses using the Gemini API.
+
+🚀 Features
+
+🎤 Voice command support using Web Speech API
+
+💬 Text-based chat interface
+
+🔊 Text-to-speech AI responses
+
+⚡ Real-time communication with backend API
+
+📱 Responsive UI built with React
+
+🧠 AI-powered responses using Gemini API
+
+🛠️ Tech Stack
+
+React.js
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Web Speech API
+
+Axios / Fetch API
+
+📦 Installation
+1. Navigate to the frontend directory
+cd client
+2. Install dependencies
+npm install
+3. Start the development server
+npm start
+
+The application will run on:
+
+http://localhost:3000
+🔗 Backend Connection
+
+Make sure the backend server is running before starting the frontend.
+
+The front
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
