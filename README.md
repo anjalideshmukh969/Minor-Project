@@ -11,7 +11,6 @@ The assistant allows users to interact using **voice commands or text**, enablin
 * Features
 * Tech Stack
 * Architecture
-* Installation
 * Usage
 * Project Structure
 * Future Improvements
@@ -83,59 +82,6 @@ Speech Synthesis / UI Display
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/virtual-ai-assistant.git
-```
-
-### 2. Navigate to project directory
-
-```bash
-cd virtual-ai-assistant
-```
-
-### 3. Install backend dependencies
-
-```bash
-npm install
-```
-
-### 4. Install frontend dependencies
-
-```bash
-cd client
-npm install
-```
-
-### 5. Add Environment Variables
-
-Create a `.env` file in the root directory and add:
-
-```
-GEMINI_API_KEY=your_api_key_here
-MONGO_URI=your_mongodb_connection_string
-```
-
-### 6. Run the application
-
-Backend:
-
-```bash
-npm start
-```
-
-Frontend:
-
-```bash
-cd client
-npm start
-```
-
----
-
 ## 🚀 Usage
 
 1. Open the application in your browser.
@@ -190,3 +136,4 @@ MERN Stack Project
 ## 📜 License
 
 This project is created for **educational and academic purposes**.
+
