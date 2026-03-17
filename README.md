@@ -115,7 +115,7 @@ virtual-ai-assistant/
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements-
 
 * Add multilingual voice support
 * Integrate smart home automation
